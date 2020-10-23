@@ -1,0 +1,72 @@
+button {
+    outline: none;
+}
+h1 {
+    color: rgb(5, 37, 5);
+    margin: 10px auto;
+    width: 150px;
+    font-size: 25px;
+    text-align: center;
+}
+.App {
+    text-align: center;
+}
+.App-logo {
+    height: 10vmin;
+}
+.tic-tac-toe {
+    width: 150px;
+    height: 150px;
+    margin: 20px auto ;
+    background-color: rgb(255, 255, 255);
+}
+.ttt-grid {
+    width: 50px;
+    height: 50px;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: rgb(5, 37, 5);
+    float: left;
+    box-sizing: border-box;
+}
+.xo {
+    text-align: center;
+    margin: 7px auto;
+    color: white;
+    font-size: 20px;
+}
+.ttt-status {
+    width: 60px;
+    height: 15px;
+margin: 0px auto;
+    background-color:  rgb(5, 37, 5);
+
+}
+.status  {
+    width: 60px;
+    height: 15px;
+    background-color:  rgb(5, 37, 5);
+    font-size: 10px;
+    margin: 0;
+
+}
+p {
+    text-align: center;
+    color: white;
+    
+}
+.ttt-refr {
+    width: 60px;
+    height: 30px;
+margin: 0px auto;
+}
+.refr {
+    background-color: rgb(67, 86, 87);
+    color: white;
+    border: none;
+    border-radius: 3px;
+    font-size: 10px;
+    width: 60px;
+    height: 15px;
+    
+}
